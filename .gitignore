@@ -1,0 +1,6 @@
+/build
+/.regolith
+.idea
+.regolith
+node_modules
+packs/BP/scripts/
