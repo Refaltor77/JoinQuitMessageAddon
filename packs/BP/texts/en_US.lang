@@ -1,2 +1,5 @@
-pack.name=Template BP by refaltor
-pack.description=Template BP by refaltor
+pack.name=JoinQuitAddonBP
+pack.description=Addon that adds messages when a player joins or leaves.
+message.join=§fWelcome to the world, §6{player} !
+message.quit=§6{player} §fhas leave world !
+message.prefix=§6[§fADDON§6]

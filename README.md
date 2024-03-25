@@ -1,22 +1,15 @@
-![logo](logo.png)
+---
+
+## Welcome to my addon !
 
 ---
 
-#### Welcome to EasyAddon's GitHub. This project aims to simplify add-on creation by offering a comprehensive and functional framework with development packages such as TypeScript for scripting.
+### Join/Quit Message
+> This is an addon that allows adding join and quit messages when a player leaves and rejoins
 
+--- 
+### Discord Helper
+- Discord: https://discord.gg/TnM6B6TtW8 <br>
+- Creator: Refaltor77
 ---
-## installation
-```SHELL
-git clone git@github.com:Refaltor77/template_addon_mcpe.git addonProject/
-npm install
-```
-
-### Dependency (regolith) for compiling addon
-https://github.com/Bedrock-OSS/regolith/releases/tag/1.2.0
-
----
-## Run addon
-````SHELL 
-npm run build
-````
-This command will **automatically** compile the add-on by transpiling **TypeScript** scripting into **JavaScript**, and it will also place your add-on in the ``com.mojang/`` folder of your game.
+![logo](imgs/img.png)
